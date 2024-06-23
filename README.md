@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kangjustaan
-- 👀 I’m interested in watching movies
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on maybe not
 - 📫 How to reach me you also can cantact me in aanvinanta5@gmail.com
 
